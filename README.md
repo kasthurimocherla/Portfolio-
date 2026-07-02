@@ -2,9 +2,7 @@
 
 ## 👋 About Me
 
-Hello! I'm Mocherla Kasthuri, a Computer Science discontinued graduate passionate about software development, website creation, and problem-solving.
-
-I enjoy building projects, learning new technologies, and creating professional solutions for businesses.
+Hello! I'm Mocherla Kasthuri, an aspiring software developer with a Computer Science background. I enjoy building projects, learning new technologies, and creating professional solutions for businesses.
 
 ---
 
